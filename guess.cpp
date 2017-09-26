@@ -1,3 +1,4 @@
+//Author: Ricardo Flores
 #include <iostream>
 #include <string>
 #include <cstdlib>
